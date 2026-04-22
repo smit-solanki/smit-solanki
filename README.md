@@ -2,9 +2,7 @@
 
 ### 📱 Android Developer | Java & XML Specialist
 I am a Computer Engineering student and a passionate Android Developer from Rajkot. I focus on building native mobile applications with clean architecture and modern UI/UX using Material Design.
-
 ---
-
 ### 🛠️ My Tech Stack
 - **Languages:** Java (Core & Advanced)
 - **UI Design:** XML, Material Design 3, MotionLayout
