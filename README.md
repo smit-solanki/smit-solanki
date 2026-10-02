@@ -12,12 +12,6 @@ I am a Computer Engineering student and a passionate Android Developer from Rajk
 
 ---
 
-### 📊 GitHub Stats
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smit-solanki&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit-solanki&layout=compact&theme=tokyonight)
-
----
-
 ### 🔗 Connect with Me
 - **Portfolio:** [smit-solanki.github.io](https://smit-solanki.github.io)
 - **LinkedIn:** [Smit Solanki](https://www.linkedin.com/in/smit-solanki-22b709338/)
