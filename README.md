@@ -16,6 +16,7 @@ I am a Computer Engineering student and a passionate Android Developer from Rajk
 - **Portfolio:** [smit-solanki.github.io](https://smit-solanki.github.io)
 - **LinkedIn:** [Smit Solanki](https://www.linkedin.com/in/smit-solanki-22b709338/)
 - **Email:** [solanki270306@gmail.com](mailto:solanki270306@gmail.com)
+- **Mobile Num.:** +91 9033534246
 
 ---
 
