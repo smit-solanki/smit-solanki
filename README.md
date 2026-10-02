@@ -42,7 +42,7 @@ I enjoy turning ideas into functional mobile applications and continuously impro
 
 ## 🔗 Connect With Me
 
-* 🌐 **Portfolio:** [smit-solanki.github.io](https://smit-solanki.github.io)
+* 🌐 **Portfolio:** 
 * 💼 **LinkedIn:** [Smit Solanki](https://www.linkedin.com/in/smit-solanki-22b709338/)
 * 📧 **Email:** [solanki270306@gmail.com](mailto:solanki270306@gmail.com)
 * 📱 **Mobile:** +91 9033534246
